@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  TerrainBlock.cpp
+  ScrollMgr.cpp
+  QuestionBlock.cpp
+  Player.cpp
+  Obj.cpp
+  MyBitmap.cpp
+  Monster.cpp
+  Mario.cpp
+  MainGame.cpp
+  LineMgr.cpp
+  Line.cpp
+  KeyMgr.cpp
+  CollilsionMgr.cpp
+  BrickBlock.cpp
+  BlockMgr.cpp
+  Block.cpp
+  BitmapMgr.cpp
+  코드를 생성하고 있습니다...
+  Editor.vcxproj -> C:\Users\qsc14\Desktop\마리오게임\Mario_Final\Debug\Editor.exe

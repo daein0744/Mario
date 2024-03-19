@@ -1,0 +1,43 @@
+﻿  stdafx.cpp
+  BitmapMgr.cpp
+  Block.cpp
+  BlockMgr.cpp
+  BrickBlock.cpp
+  Bullet.cpp
+  Coin.cpp
+  CollilsionMgr.cpp
+  Flower.cpp
+  Goomba.cpp
+  Item.cpp
+  KeyMgr.cpp
+  Koopa.cpp
+  KoopaFire.cpp
+  Line.cpp
+  LineMgr.cpp
+  LogoScene.cpp
+  MainGame.cpp
+  Mario.cpp
+  MenuScene.cpp
+  Monster.cpp
+  컴파일하고 있습니다...
+  Mushroom.cpp
+  MyBitmap.cpp
+  Obj.cpp
+  ObjMgr.cpp
+  Player.cpp
+  PlayScene.cpp
+  QuestionBlock.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+  Stage1.cpp
+  Stage2.cpp
+  Stage3.cpp
+  Stage4.cpp
+  TerrainBlock.cpp
+  Turtle.cpp
+  TurtleDead.cpp
+  코드를 생성하고 있습니다.
+  All 771 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Mario.vcxproj -> C:\Users\skdye\Downloads\Mario-main\x64\Release\Mario.exe

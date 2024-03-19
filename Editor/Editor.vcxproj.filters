@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapMgr.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="CollilsionMgr.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="LineMgr.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Mario.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBitmap.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollMgr.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>DrawObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>DrawObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockMgr.h">
+      <Filter>DrawObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainBlock.h">
+      <Filter>DrawObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickBlock.h">
+      <Filter>DrawObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestionBlock.h">
+      <Filter>DrawObjects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BitmapMgr.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="CollilsionMgr.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="LineMgr.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="Mario.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBitmap.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollMgr.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>DrawObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>DrawObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockMgr.cpp">
+      <Filter>DrawObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickBlock.cpp">
+      <Filter>DrawObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestionBlock.cpp">
+      <Filter>DrawObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainBlock.cpp">
+      <Filter>DrawObjects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Mario.ico">
+      <Filter>ETC</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>ETC</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ETC">
+      <UniqueIdentifier>{ff5e0d9b-c8a6-4fd4-aa79-2c9de99eb224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DrawObjects">
+      <UniqueIdentifier>{f336e001-2e3d-48b2-81e1-cb0ca0b20621}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Mario.rc">
+      <Filter>ETC</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

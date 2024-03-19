@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  TurtleDead.cpp
+  Turtle.cpp
+  TerrainBlock.cpp
+  Stage4.cpp
+  Stage3.cpp
+  Stage2.cpp
+  Stage1.cpp
+  ScrollMgr.cpp
+  SceneMgr.cpp
+  Scene.cpp
+  QuestionBlock.cpp
+  PlayScene.cpp
+  Player.cpp
+  ObjMgr.cpp
+  Obj.cpp
+  MyBitmap.cpp
+  Mushroom.cpp
+  Monster.cpp
+  MenuScene.cpp
+  Mario.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MainGame.cpp
+  LogoScene.cpp
+  LineMgr.cpp
+  Line.cpp
+  KoopaFire.cpp
+  Koopa.cpp
+  KeyMgr.cpp
+  Item.cpp
+  Goomba.cpp
+  Flower.cpp
+  CollilsionMgr.cpp
+  Coin.cpp
+  Bullet.cpp
+  BrickBlock.cpp
+  BlockMgr.cpp
+  Block.cpp
+  BitmapMgr.cpp
+  코드를 생성하고 있습니다...
+  Mario.vcxproj -> C:\gitworkspace\IssacPlayer\Mario\Debug\Mario.exe
